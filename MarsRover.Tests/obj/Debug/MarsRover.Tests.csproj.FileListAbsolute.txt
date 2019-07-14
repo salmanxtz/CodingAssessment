@@ -1,0 +1,16 @@
+C:\Users\manaf\source\repos\ResolveMarsTask\MarsRover.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\manaf\source\repos\ResolveMarsTask\MarsRover.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\manaf\source\repos\ResolveMarsTask\MarsRover.Tests\bin\Debug\nunit.engine.dll
+C:\Users\manaf\source\repos\ResolveMarsTask\MarsRover.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\manaf\source\repos\ResolveMarsTask\MarsRover.Tests\bin\Debug\MarsRover.Tests.dll
+C:\Users\manaf\source\repos\ResolveMarsTask\MarsRover.Tests\bin\Debug\MarsRover.Tests.pdb
+C:\Users\manaf\source\repos\ResolveMarsTask\MarsRover.Tests\bin\Debug\MarsRoverEngine.dll
+C:\Users\manaf\source\repos\ResolveMarsTask\MarsRover.Tests\bin\Debug\nunit.framework.dll
+C:\Users\manaf\source\repos\ResolveMarsTask\MarsRover.Tests\bin\Debug\MarsRoverEngine.pdb
+C:\Users\manaf\source\repos\ResolveMarsTask\MarsRover.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\manaf\source\repos\ResolveMarsTask\MarsRover.Tests\bin\Debug\nunit.framework.xml
+C:\Users\manaf\source\repos\ResolveMarsTask\MarsRover.Tests\obj\Debug\MarsRover.Tests.csprojAssemblyReference.cache
+C:\Users\manaf\source\repos\ResolveMarsTask\MarsRover.Tests\obj\Debug\MarsRover.Tests.csproj.CoreCompileInputs.cache
+C:\Users\manaf\source\repos\ResolveMarsTask\MarsRover.Tests\obj\Debug\MarsRover.Tests.csproj.CopyComplete
+C:\Users\manaf\source\repos\ResolveMarsTask\MarsRover.Tests\obj\Debug\MarsRover.Tests.dll
+C:\Users\manaf\source\repos\ResolveMarsTask\MarsRover.Tests\obj\Debug\MarsRover.Tests.pdb

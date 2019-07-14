@@ -1,0 +1,6 @@
+C:\Users\manaf\source\repos\ResolveMarsTask\MarsRoverEngine\bin\Debug\MarsRoverEngine.dll
+C:\Users\manaf\source\repos\ResolveMarsTask\MarsRoverEngine\bin\Debug\MarsRoverEngine.pdb
+C:\Users\manaf\source\repos\ResolveMarsTask\MarsRoverEngine\obj\Debug\MarsRoverEngine.csprojAssemblyReference.cache
+C:\Users\manaf\source\repos\ResolveMarsTask\MarsRoverEngine\obj\Debug\MarsRoverEngine.csproj.CoreCompileInputs.cache
+C:\Users\manaf\source\repos\ResolveMarsTask\MarsRoverEngine\obj\Debug\MarsRoverEngine.dll
+C:\Users\manaf\source\repos\ResolveMarsTask\MarsRoverEngine\obj\Debug\MarsRoverEngine.pdb
